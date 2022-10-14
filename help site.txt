@@ -1,0 +1,6 @@
+https://www.statalist.org/forums/forum/general-stata-discussion/general/1487740-time-fixed-effects-esttab
+
+http://repec.org/bocode/e/estout/advanced.html
+
+
+http://repec.sowi.unibe.ch/stata/estout/estpost.html
